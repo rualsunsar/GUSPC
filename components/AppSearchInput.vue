@@ -32,7 +32,6 @@ export default {
   },
   watch: {
     async searchQuery(searchQuery) {
-      console.log('searchQuery', searchQuery)
       if (!searchQuery) {
         this.articles = []
         return

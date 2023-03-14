@@ -70,7 +70,7 @@
 <script>
 export default {
   async asyncData({ $content, $axios, params }) {
-    const { data } = await $axios.get(`webApi/articleList`)
+    const { data } = await $axios.$get(`http://124.222.91.249:8002/webApi/articleList`)
     console.log("sar", data.data)
     const articles = await $content('articles')
       .only(['title', 'description', 'img', 'slug', 'author'])

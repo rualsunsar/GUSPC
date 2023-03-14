@@ -64,18 +64,18 @@ export default {
     },
     nestedProperties: ['author.name','plant.name']
   },
-  axios: {
-    prefix: '/api/',
-    proxy: true
-  },
-  proxy: {
-    '/api/': {
-      target: 'http://124.222.91.249:8002/',
-      pathRewrite: {
-        '^/api/': ''
-      }
-    }
-  },
+  // axios: {
+  //   prefix: '/api/',
+  //   proxy: true
+  // },
+  // proxy: {
+  //   '/api/': {
+  //     target: 'http://124.222.91.249:8002/',
+  //     pathRewrite: {
+  //       '^/api/': ''
+  //     }
+  //   }
+  // },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/

@@ -2,11 +2,12 @@
   <div class="w-full px-2 xs:mb-6 md:mb-12 article-card">
     <NuxtLink
       :to="`/blog/plant/${plant.name}`"
-      class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
+      class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md"
     >
       <img
         v-if="plant.img"
-        class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover"
+        class="object-cover"
+        style="width:100px;height: 100px;border-radius: 50%;flex-shrink: 0;"
         :src="plant.img"
       />
       <div class="flex flex-col m-4">

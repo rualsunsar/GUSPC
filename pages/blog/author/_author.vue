@@ -65,7 +65,6 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    console.log('_author page', params)
     const articles = await $content('articles')
       .where({
         'author.name': {
@@ -75,7 +74,6 @@ export default {
       .without('body')
       .sortBy('createdAt', 'asc')
       .fetch()
-    console.log('_author result', articles)
     return {
       articles
     }
