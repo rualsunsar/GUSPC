@@ -1,5 +1,5 @@
 ---
 name: 热门
 description: 热门植物
-img: https://images.unsplash.com/photo-1598425237654-4fc758e50a93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+img: http://124.222.91.249:8002/public/common/tag/tag_hot.jpg
 ---
