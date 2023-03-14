@@ -71,7 +71,7 @@
 export default {
   async asyncData({ $content, $axios, params }) {
     const { data } = await $axios.get(`webApi/articleList`)
-    console.log("sar", data)
+    console.log("sar", data.data)
     const articles = await $content('articles')
       .only(['title', 'description', 'img', 'slug', 'author'])
       .sortBy('createdAt', 'desc')
