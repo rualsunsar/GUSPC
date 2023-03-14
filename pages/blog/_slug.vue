@@ -34,14 +34,8 @@
           to="/"
           class="mr-8 self-center text-white font-bold hover:underline"
         >
-          All articles
+          所有文章
         </NuxtLink>
-        <a
-          href="https://nuxtjs.org/blog/creating-blog-with-nuxt-content"
-          class="mr-8 self-center text-white font-bold hover:underline"
-        >
-          Tutorial
-        </a>
         <AppSearchInput />
       </div>
     </div>
@@ -50,7 +44,7 @@
     >
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
       <p>{{ article.description }}</p>
-      <p class="pb-4">Post last updated: {{ formatDate(article.updatedAt) }}</p>
+      <p class="pb-4">最近更新于: {{ formatDate(article.updatedAt) }}</p>
       <!-- table of contents -->
       <nav class="pb-6">
         <ul>
@@ -75,6 +69,8 @@
       </nav>
       <!-- content from markdown -->
       <nuxt-content :document="article" />
+      <!-- content plant component -->
+      <plant :plant="article.plant" />
       <!-- content author component -->
       <author :author="article.author" />
       <!-- prevNext component -->
@@ -106,7 +102,7 @@ export default {
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleDateString('cn', options)
     }
   }
 }

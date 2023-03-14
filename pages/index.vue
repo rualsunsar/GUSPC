@@ -2,7 +2,7 @@
   <div class="m-8">
     <TheHeader />
 
-    <h1 class="font-bold text-4xl">Blog Posts</h1>
+    <h1 class="font-bold text-4xl">绿意UnderSun</h1>
     <ul class="flex flex-wrap">
       <li
         v-for="article of articles"
@@ -31,7 +31,7 @@
         </NuxtLink>
       </li>
     </ul>
-    <h3 class="mb-4 font-bold text-2xl uppercase text-center">Topics</h3>
+    <h3 class="mb-4 font-bold text-2xl uppercase text-center">标签</h3>
     <ul class="flex flex-wrap mb-4 text-center">
       <li
         v-for="tag of tags"
@@ -49,8 +49,8 @@
     </ul>
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
-        Created by
-        <a
+        Created by 绿意UnderSun
+        <!-- <a
           href="https://twitter.com/debs_obrien"
           class="font-bold hover:underline"
           >Debbie O'Brien</a
@@ -61,7 +61,7 @@
           class="font-bold hover:underline"
           >tutorial</a
         >
-        for how to build it.
+        for how to build it. -->
       </p>
     </footer>
   </div>

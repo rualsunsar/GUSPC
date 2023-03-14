@@ -28,9 +28,9 @@
       class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
     >
       <NuxtLink to="/"
-        ><p class="hover:underline">Back to All Articles</p></NuxtLink
+        ><p class="hover:underline">返回文章列表</p></NuxtLink
       >
-      <h3 class="mb-4 font-bold text-4xl">Articles tagged {{ tag.name }}:</h3>
+      <h3 class="mb-4 font-bold text-4xl">这里都是关于 “{{ tag.name }}” 的文章~</h3>
       <ul>
         <li
           v-for="article in articles"
@@ -84,7 +84,7 @@ export default {
   methods: {
     formatDate(date) {
       const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
+      return new Date(date).toLocaleDateString('cn', options)
     }
   }
 }

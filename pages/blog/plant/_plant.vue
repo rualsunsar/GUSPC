@@ -4,8 +4,8 @@
   >
     <div class="relative lg:w-1/2 xs:w-full xs:h-84 lg:h-full post-left">
       <img
-        :src="articles[0].author.img"
-        :alt="articles[0].author.name"
+        :src="articles[0].plant.img"
+        :alt="articles[0].plant.name"
         class="absolute h-full w-full object-cover"
       />
     </div>
@@ -15,9 +15,9 @@
       <NuxtLink to="/"><Logo /></NuxtLink>
       <div class="mt-16 -mb-3 flex flex-col uppercase text-sm">
         <h1 class="text-4xl font-bold">
-          {{ articles[0].author.name }}
+          {{ articles[0].plant.name }}
         </h1>
-        <p class="mb-4">{{ articles[0].author.bio }}</p>
+        <p class="mb-4">{{ articles[0].plant.bio }}</p>
       </div>
     </div>
     <div
@@ -27,7 +27,7 @@
         ><p class="hover:underline">返回文章列表</p></NuxtLink
       >
       <h3 class="mb-4 font-bold text-4xl">
-        这里都是关于 “{{ articles[0].author.name }}” 的文章~
+        这里都是关于 “{{ articles[0].plant.name }}” 的文章~
       </h3>
       <ul>
         <li
@@ -65,17 +65,17 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    console.log('_author page', params)
+    console.log('_plant page', params)
     const articles = await $content('articles')
       .where({
-        'author.name': {
-          $regex: [params.author, 'i']
+        'plant.name': {
+          $regex: [params.plant, 'i']
         }
       })
       .without('body')
       .sortBy('createdAt', 'asc')
       .fetch()
-    console.log('_author result', articles)
+    console.log('_plant result', articles)
     return {
       articles
     }

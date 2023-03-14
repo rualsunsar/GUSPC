@@ -62,7 +62,7 @@ export default {
         theme: 'prism-themes/themes/prism-material-oceanic.css'
       }
     },
-    nestedProperties: ['author.name']
+    nestedProperties: ['author.name','plant.name']
   },
   axios: {
     prefix: '/api/',
