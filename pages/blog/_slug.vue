@@ -36,7 +36,7 @@
         >
           所有文章
         </NuxtLink>
-        <AppSearchInput />
+        <!-- <AppSearchInput /> -->
       </div>
     </div>
     <div
