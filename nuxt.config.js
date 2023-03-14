@@ -51,7 +51,8 @@ export default {
    */
   modules: [
     // Doc: https://github.com/nuxt/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/axios'
   ],
   /*
    ** Content module configuration
@@ -64,6 +65,18 @@ export default {
       }
     },
     nestedProperties: ['author.name']
+  },
+  axios: {
+    prefix: '/api/',
+    proxy: true
+  },
+  proxy: {
+    '/api/': {
+      target: 'http://124.222.91.249:8002/',
+      pathRewrite: {
+        '^/api/': ''
+      }
+    }
   },
   /*
    ** Build configuration
