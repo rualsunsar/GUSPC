@@ -1,4 +1,7 @@
 export default {
+  server: {
+    port: 3002 // 指定端口号
+  },
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
