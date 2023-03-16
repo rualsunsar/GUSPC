@@ -9,7 +9,7 @@ author:
   img: http://124.222.91.249:8002/public/common/author/author_1.jpg
 plant: 
   name: 郁金香
-  bio: 郁金香(学名：Tulipa gesneriana L.)是百合科、郁金香属植物。。
+  bio: 郁金香(学名：Tulipa gesneriana L.)是百合科、郁金香属植物。
   img: http://124.222.91.249:8002/public/common/plant/plant_yujinxiang_0.jfif
 tags: 
   - 热门
