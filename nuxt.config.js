@@ -16,8 +16,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'keywords', name: 'keywords', content: '植物养护,室内植物,户外植物,盆栽植物,植物种植,植物生长环境,光照,水分,温度,植物品种介绍,特点,栽培方法,植物疾病防治,花卉养护,绿植,养植物的技巧知识' },
-      { hid: 'description', name: 'description', content: '以植物陶冶情操，杰志武修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。' }
+      { hid: 'keywords', name: 'keywords', content: '绿意UnderSun,绿意,植物养护,室内植物,户外植物,盆栽植物,植物种植,植物生长环境,光照,水分,温度,植物品种介绍,特点,栽培方法,植物疾病防治,花卉养护,绿植,养植物的技巧知识' },
+      { hid: 'description', name: 'description', content: '绿意UnderSun,绿意,以植物陶冶情操，杰志武修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。' }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
