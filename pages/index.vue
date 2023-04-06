@@ -49,7 +49,7 @@
     </ul>
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
-        Created by 绿意UnderSun
+        Copyright © ihua.ren All right served. <a href="https://beian.miit.gov.cn" target="_blank">苏ICP备2023009511号-1</a>
         <!-- <a
           href="https://twitter.com/debs_obrien"
           class="font-bold hover:underline"
