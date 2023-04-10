@@ -63,6 +63,15 @@
         >
         for how to build it. -->
       </p>
+      <div class="mt-4" style="margin-left: 10px;">
+		 		<a
+          target="_blank"
+          href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32050702011244"
+          style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"
+        >
+          <img src="../static/beian_icon.png" style="float:left;"/>
+          <p style="float:left;height:20px;line-height:20px;margin: 0 0 0 5px;">苏公网安备 32050702011244号</p></a>
+		 	</div>
     </footer>
   </div>
 </template>
