@@ -70,7 +70,7 @@ export default {
   // },
   // proxy: {
   //   '/api/': {
-  //     target: 'http://124.222.91.249:8002/',
+  //     target: 'http://static.ihua.ren/',
   //     pathRewrite: {
   //       '^/api/': ''
   //     }

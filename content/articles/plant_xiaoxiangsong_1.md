@@ -1,16 +1,16 @@
 ---
 title: 小香松 | 带柠檬香味的的小圣诞树
 description: 如何养护小香松
-img: http://124.222.91.249:8002/public/common/plant/plant_xiaoxiangsong_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_xiaoxiangsong_1_1.jfif
 alt: 小香松 | 带柠檬香味的的小圣诞树
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 小香松
   bio: 香松又名香冠柏,用手轻轻拂过它黄绿色的叶片,能闻到淡淡的清新的香味。
-  img: http://124.222.91.249:8002/public/common/plant/plant_xiaoxiangsong_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_xiaoxiangsong_0.jfif
 tags: 
   - 热门
 ---

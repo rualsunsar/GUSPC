@@ -1,16 +1,16 @@
 ---
 title: 姬小菊丨如何养姬小菊爆盆？你知道吗？
 description: 如何养护姬小菊
-img: http://124.222.91.249:8002/public/common/plant/plant_jixiaoju_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_jixiaoju_1_1.jfif
 alt: 姬小菊丨如何养姬小菊爆盆？你知道吗？
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 姬小菊
   bio: 姬小菊是菊科雁河菊属多年生草本植物。
-  img: http://124.222.91.249:8002/public/common/plant/plant_jixiaoju_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_jixiaoju_0.jfif
 tags: 
   - 热门
 ---

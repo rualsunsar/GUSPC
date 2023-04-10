@@ -1,16 +1,16 @@
 ---
 title: 风信子丨小白也能大胆养的植物——风信子
 description: 如何养护风信子
-img: http://124.222.91.249:8002/public/common/plant/plant_fengxinzi_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_fengxinzi_1_1.jfif
 alt: 风信子丨小白也能大胆养的植物——风信子
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 风信子
   bio: 风信子，是天门冬科风信子属的多年生草本植物。
-  img: http://124.222.91.249:8002/public/common/plant/plant_fengxinzi_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_fengxinzi_0.jfif
 tags: 
   - 热门
 ---

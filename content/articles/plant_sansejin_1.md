@@ -1,16 +1,16 @@
 ---
 title: 三色堇丨教你如何种三色堇，学会这些爆盆很简单
 description: 如何养护郁金香
-img: http://124.222.91.249:8002/public/common/plant/plant_sansejin_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_sansejin_1_1.jfif
 alt: 三色堇丨教你如何种三色堇，学会这些爆盆很简单
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 三色堇
   bio: 三色堇，堇菜科堇菜属二年或多年生草本植物。
-  img: http://124.222.91.249:8002/public/common/plant/plant_sansejin_0.png
+  img: http://static.ihua.ren/public/common/plant/plant_sansejin_0.png
 tags: 
   - 热门
 ---

@@ -1,16 +1,16 @@
 ---
 title: 角堇、三色堇丨角堇和三色堇，你能分得清吗？
 description: 如何养护郁金香
-img: http://124.222.91.249:8002/public/common/plant/plant_jiaojin_2_1.png
+img: http://static.ihua.ren/public/common/plant/plant_jiaojin_2_1.png
 alt: 角堇、三色堇丨角堇和三色堇，你能分得清吗？
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 角堇
   bio: 角堇(学名：Viola cornuta L.)：为堇菜科堇菜属多年生草本植物。
-  img: http://124.222.91.249:8002/public/common/plant/plant_jiaojin_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_jiaojin_0.jfif
 tags: 
   - 热门
 ---

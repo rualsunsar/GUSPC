@@ -24,6 +24,6 @@
     width="80"
     height="40"
     style="border-radius: 50%"
-    src="http://124.222.91.249:8002/public/common/logo/logo_1.jpg" alt="logo"
+    src="http://static.ihua.ren/public/common/logo/logo_1.jpg" alt="logo"
   >
 </template>

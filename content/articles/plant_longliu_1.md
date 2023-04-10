@@ -1,16 +1,16 @@
 ---
 title: 龙柳 | 自带高级感的植物
 description: 如何养护龙柳
-img: http://124.222.91.249:8002/public/common/plant/plant_longliu_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_longliu_1_1.jfif
 alt: 龙柳 | 自带高级感的植物
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 龙柳
   bio: 龙柳（学名：Salix matsudana Koidz.）是柳科柳属的一个树种，原产于中国。它也被称为中国垂柳或垂柳。
-  img: http://124.222.91.249:8002/public/common/plant/plant_longliu_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_longliu_0.jfif
 tags: 
   - 热门
 ---

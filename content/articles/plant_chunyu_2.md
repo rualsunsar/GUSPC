@@ -1,16 +1,16 @@
 ---
 title: 春羽和龙鳞春羽有什么区别呢？
 description: 区分春羽和龙鳞春羽
-img: http://124.222.91.249:8002/public/common/plant/plant_chunyu_2_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_chunyu_2_1.jfif
 alt: 春羽 | 在家如何养好春羽呢
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 春羽
   bio: 春羽原产巴西、巴拉圭等南美洲热带地区。
-  img: http://124.222.91.249:8002/public/common/plant/plant_chunyu_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_chunyu_0.jfif
 tags: 
   - 热门
 ---

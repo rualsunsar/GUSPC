@@ -1,16 +1,16 @@
 ---
 title: 白晶菊丨白晶菊想养在家中，知道该怎么养护吗？
 description: 如何养护白晶菊
-img: http://124.222.91.249:8002/public/common/plant/plant_baijinju_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_baijinju_1_1.jfif
 alt: 白晶菊丨白晶菊想养在家中，知道该怎么养护吗？
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 白晶菊
   bio: 白晶菊（学名：Mauranthemum paludosum (Poir.) Vogt et Oberprieler），菊科白晶菊属植物，为一、二年生草本花卉。
-  img: http://124.222.91.249:8002/public/common/plant/plant_baijinju_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_baijinju_0.jfif
 tags: 
   - 热门
 ---

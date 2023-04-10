@@ -1,16 +1,16 @@
 ---
 title: 郁金香丨郁金香种植、水培、繁殖全攻略
 description: 如何养护郁金香
-img: http://124.222.91.249:8002/public/common/plant/plant_yujinxiang_1_1.jfif
+img: http://static.ihua.ren/public/common/plant/plant_yujinxiang_1_1.jfif
 alt: 郁金香丨郁金香种植、水培、繁殖全攻略
 author: 
   name: 沐沐家小花匠
   bio: 以植物陶冶情操，借植物修身养性，用植物点缀生活，从基本入手，家庭生活植物养成攻略。
-  img: http://124.222.91.249:8002/public/common/author/author_1.jpg
+  img: http://static.ihua.ren/public/common/author/author_1.jpg
 plant: 
   name: 郁金香
   bio: 郁金香(学名：Tulipa gesneriana L.)是百合科、郁金香属植物。
-  img: http://124.222.91.249:8002/public/common/plant/plant_yujinxiang_0.jfif
+  img: http://static.ihua.ren/public/common/plant/plant_yujinxiang_0.jfif
 tags: 
   - 热门
 ---
